@@ -193,4 +193,4 @@ npm test -- --watchAll=false
 ---
 
 ## 13) License
-For Hackademia 2025 – GRAVITY usage. Final licensing to be confirmed by the team/organizers.
+For 2025 – Varshitha usage. Final licensing to be confirmed by the team/organizers.
